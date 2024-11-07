@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on grandMA3 plugins to further automate workflow
+💻Currently working on grandMA3 plugins to further automate workflow
 
-Currently, I'm learning more about embedded systems integration with programming
+⚡Currently, I'm learning more about embedded systems integration with programming
 
-Ask me about lighting technology!
+💡Ask me about lighting technology!
