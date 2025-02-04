@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💻Currently working on grandMA3 plugins to further automate workflow
+
 🌱I also spent extensive time programming in C, x86, and C++ for embedded systems, 
    specifically for stage lighting fixtures and technology
 
