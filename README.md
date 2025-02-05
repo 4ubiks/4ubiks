@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💻Currently working on grandMA3 plugins to further automate workflow
 
-🌱I also spent extensive time programming in C, x86, and C++ for embedded systems, 
+🌱I also spend extensive time programming in C, x86, and C++ for embedded systems, 
    specifically for stage lighting fixtures and technology
 
 ⚡Currently, I'm learning more about embedded systems integration with programming
