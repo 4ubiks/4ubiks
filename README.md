@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 ⚡Currently, I'm learning more about embedded systems integration with programming
 
 💡Ask me about lighting technology!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ubiks&hide=javascript,css,scss,html&theme=tokyonight)
