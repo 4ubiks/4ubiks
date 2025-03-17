@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 💡Ask me about lighting technology!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ubiks&hide=python,javascript,powershell,HTML,CSS&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ubiks&hide=python,javascript,powershell,HTML,CSS,SCSS&theme=tokyonight)
