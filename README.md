@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ⚡Also learning more about embedded systems integration with programming
 
-💡Ask me about lighting technology!
+💡Let's talk about lighting technology!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ubiks&hide=python,javascript,powershell,HTML,CSS,SCSS&theme=tokyonight)
